@@ -19,4 +19,4 @@ Upload any kind of file to be availibe for the world and your site. Most minded 
 Enter to your control panel and do your things, login data is in a file.
 
 ### Programming philosophy of this project:
-The goal of this script is to be very simple and fast programmed (not much code). Less is more, hard code is ok, only do the things work NAO.
+The goal of this script is to be very simple and fast programmed (not much code). Less is more, hard code is ok, only get the things work NAO.
